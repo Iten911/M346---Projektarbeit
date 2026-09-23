@@ -1,9 +1,9 @@
 # IaaS – Infrastructure as a Service
 
-Definition
+Definition:
 Du mietest rohe Infrastruktur: VMs, Storage, Netzwerk. Betriebssystem, Updates und Sicherheit sind deine Aufgabe. Maximale Kontrolle, aber auch maximaler Aufwand.
 
-Beispiel
+Beispiel:
 Eine Firma mietet für einen Batch-Job kurzzeitig eine VM bei AWS EC2 und schaltet sie danach wieder ab.
 
 Weiterführende Links
