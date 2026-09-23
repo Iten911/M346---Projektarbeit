@@ -1,9 +1,9 @@
 # PaaS – Platform as a Service
 
-Definition
+Definition:
 Der Anbieter liefert zusätzlich zur Infrastruktur auch Betriebssystem und Laufzeitumgebung. Du lieferst nur den Code. Weniger Aufwand, aber auch weniger Kontrolle.
 
-Beispiel
+Beispiel:
 Ein Entwickler deployt eine Node.js-App auf Azure App Service, ohne sich um Server oder Skalierung zu kümmern.
 
 ## Weiterführende Links
